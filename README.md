@@ -1,4 +1,4 @@
-# Domain-Driven Hexagon 1 изменения - да
+# Domain-Driven Hexagon 2 изменения - да
 
 **Check out my other repositories**:
 
