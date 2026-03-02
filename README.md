@@ -1,4 +1,4 @@
-# Domain-Driven Hexagon 3 изменения - дааа
+# Domain-Driven Hexagon 3 изменения - дааа (с изменениями из branch1)
 
 **Check out my other repositories**:
 
